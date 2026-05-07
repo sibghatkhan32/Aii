@@ -1,0 +1,29 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Q1 - CSP SUPARCO",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/q1_paper_b.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Q2 - Minimax Robot",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/q2_paper_b.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Q3 - Titanic Classification",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/q3_paper_b.py",
+            "console": "integratedTerminal",
+            "justMyCode": true
+        }
+    ]
+}
